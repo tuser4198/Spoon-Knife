@@ -10,7 +10,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 test
 dev test
-master test 
+master test stash test
 
 tsecond test 
 
